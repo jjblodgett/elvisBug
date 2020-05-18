@@ -1,5 +1,5 @@
 # elvisBug
-This is code to test a possible bug with elvis operator ?: in CF2016 (usually u13+) and having CF11 or CF10 installed on a developer instance
+This is code to test a possible bug with elvis operator ?: in CF2016 (usually u13+) and having another version (CF2018, CF11, or CF10) installed on a developer instance
 
 **Instructions:**
 - Download repo and set up in a web.
